@@ -8,7 +8,6 @@ Created on Fri Oct 13 07:28:44 2023
 print("*"*26)
 print("*"," "*4,"Agob, Khoala"," "*4,"*")
 print("* Temperatur umberechnen *")
-print("*"," "*6,"App16a2"," "*7,"*")
 print("*"*26,"\n")
 
 abfrage = input("Was möchten Sie konvertieren? Energie (Joule) oder Temperatur? Bitte geben Sie ein: ")
