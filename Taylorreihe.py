@@ -3,7 +3,6 @@ import math
 print("*"*25)
 print("*"," "*4, "Taylorreihe"," "*4, "*")
 print("*", " "*4, "Khoala Agob",  " "*4, "*")
-print("*"," "*6, "App16a2", " "*6,"*")
 print("*"*25)
 
 def reihe(x, n):
